@@ -12,5 +12,5 @@ public int[] productExceptSelf(int[] nums) {
         right *= nums[i];
     }
     return res;
-}
+    }
 }
