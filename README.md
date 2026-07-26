@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/malavya1411/DSA-Submissions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/malavya1411/DSA-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/malavya1411/DSA-Submissions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/malavya1411/DSA-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/malavya1411/DSA-Submissions/tree/master/1732-find-the-highest-altitude) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malavya1411/DSA-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/malavya1411/DSA-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/malavya1411/DSA-Submissions/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/malavya1411/DSA-Submissions/tree/master/3536-maximum-product-of-two-digits) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/malavya1411/DSA-Submissions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
