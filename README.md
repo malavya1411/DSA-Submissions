@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/malavya1411/DSA-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/malavya1411/DSA-Submissions/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/malavya1411/DSA-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/malavya1411/DSA-Submissions/tree/master/0986-interval-list-intersections) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 ## Interactive
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/malavya1411/DSA-Submissions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/malavya1411/DSA-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sweep Line
 |  |
@@ -182,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
