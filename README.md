@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/malavya1411/DSA-Submissions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/malavya1411/DSA-Submissions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/malavya1411/DSA-Submissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/malavya1411/DSA-Submissions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1406-stone-game-iii) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/malavya1411/DSA-Submissions/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/malavya1411/DSA-Submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
