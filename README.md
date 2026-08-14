@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malavya1411/DSA-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/malavya1411/DSA-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/malavya1411/DSA-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/malavya1411/DSA-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/malavya1411/DSA-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/malavya1411/DSA-Submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/malavya1411/DSA-Submissions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malavya1411/DSA-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/malavya1411/DSA-Submissions/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/malavya1411/DSA-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/malavya1411/DSA-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/malavya1411/DSA-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/malavya1411/DSA-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/malavya1411/DSA-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/malavya1411/DSA-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/malavya1411/DSA-Submissions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1406-stone-game-iii) |
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
