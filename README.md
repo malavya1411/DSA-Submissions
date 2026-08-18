@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malavya1411/DSA-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/malavya1411/DSA-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/malavya1411/DSA-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/malavya1411/DSA-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malavya1411/DSA-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/malavya1411/DSA-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/malavya1411/DSA-Submissions/tree/master/0986-interval-list-intersections) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/malavya1411/DSA-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/malavya1411/DSA-Submissions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0509-fibonacci-number) |
