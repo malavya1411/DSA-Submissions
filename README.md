@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1406-stone-game-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/malavya1411/DSA-Submissions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/malavya1411/DSA-Submissions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/malavya1411/DSA-Submissions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/malavya1411/DSA-Submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/malavya1411/DSA-Submissions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
