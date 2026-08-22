@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/malavya1411/DSA-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/malavya1411/DSA-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/malavya1411/DSA-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/malavya1411/DSA-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/malavya1411/DSA-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/malavya1411/DSA-Submissions/tree/master/3731-find-missing-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/malavya1411/DSA-Submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/malavya1411/DSA-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/malavya1411/DSA-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
