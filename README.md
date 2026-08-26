@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/malavya1411/DSA-Submissions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/malavya1411/DSA-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0661-image-smoother](https://github.com/malavya1411/DSA-Submissions/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/malavya1411/DSA-Submissions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/malavya1411/DSA-Submissions/tree/master/0904-fruit-into-baskets) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/malavya1411/DSA-Submissions/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/malavya1411/DSA-Submissions/tree/master/0661-image-smoother) |
 | [1672-richest-customer-wealth](https://github.com/malavya1411/DSA-Submissions/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
