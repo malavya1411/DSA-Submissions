@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malavya1411/DSA-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/malavya1411/DSA-Submissions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/malavya1411/DSA-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/malavya1411/DSA-Submissions/tree/master/0986-interval-list-intersections) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/malavya1411/DSA-Submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/malavya1411/DSA-Submissions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/malavya1411/DSA-Submissions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/malavya1411/DSA-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/malavya1411/DSA-Submissions/tree/master/1108-defanging-an-ip-address) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/malavya1411/DSA-Submissions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/malavya1411/DSA-Submissions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
