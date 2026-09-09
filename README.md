@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/malavya1411/DSA-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1859-sorting-the-sentence](https://github.com/malavya1411/DSA-Submissions/tree/master/1859-sorting-the-sentence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/malavya1411/DSA-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/malavya1411/DSA-Submissions/tree/master/3731-find-missing-elements) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/malavya1411/DSA-Submissions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/malavya1411/DSA-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/malavya1411/DSA-Submissions/tree/master/1859-sorting-the-sentence) |
 ## Linked List
 |  |
 | ------- |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/malavya1411/DSA-Submissions/tree/master/0506-relative-ranks) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/malavya1411/DSA-Submissions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
