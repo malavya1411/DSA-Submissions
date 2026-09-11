@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/malavya1411/DSA-Submissions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/malavya1411/DSA-Submissions/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/malavya1411/DSA-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/malavya1411/DSA-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/malavya1411/DSA-Submissions/tree/master/1108-defanging-an-ip-address) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/malavya1411/DSA-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/malavya1411/DSA-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
