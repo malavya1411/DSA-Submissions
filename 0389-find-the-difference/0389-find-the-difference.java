@@ -4,7 +4,6 @@ class Solution {
         char[] tChars = t.toCharArray();
         Arrays.sort(sChars);
         Arrays.sort(tChars);
-
         int i = 0;
         while (i < sChars.length && sChars[i] == tChars[i]) {
             i++;
