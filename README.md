@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/malavya1411/DSA-Submissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/malavya1411/DSA-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/malavya1411/DSA-Submissions/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/malavya1411/DSA-Submissions/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/malavya1411/DSA-Submissions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1528-shuffle-string) |
