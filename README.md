@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/malavya1411/DSA-Submissions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/malavya1411/DSA-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/malavya1411/DSA-Submissions/tree/master/1859-sorting-the-sentence) |
+| [3498-reverse-degree-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/malavya1411/DSA-Submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/malavya1411/DSA-Submissions/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
