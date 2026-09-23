@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/malavya1411/DSA-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1528-shuffle-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/malavya1411/DSA-Submissions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/malavya1411/DSA-Submissions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/malavya1411/DSA-Submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/malavya1411/DSA-Submissions/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/malavya1411/DSA-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/malavya1411/DSA-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/malavya1411/DSA-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/malavya1411/DSA-Submissions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/malavya1411/DSA-Submissions/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/malavya1411/DSA-Submissions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/malavya1411/DSA-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/malavya1411/DSA-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/malavya1411/DSA-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/malavya1411/DSA-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/malavya1411/DSA-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
