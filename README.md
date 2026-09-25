@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/malavya1411/DSA-Submissions/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/malavya1411/DSA-Submissions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/malavya1411/DSA-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/malavya1411/DSA-Submissions/tree/master/0986-interval-list-intersections) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/malavya1411/DSA-Submissions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/malavya1411/DSA-Submissions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/malavya1411/DSA-Submissions/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/malavya1411/DSA-Submissions/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/malavya1411/DSA-Submissions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1528-shuffle-string) |
