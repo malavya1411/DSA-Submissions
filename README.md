@@ -3,7 +3,6 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-
 ## Array
 |  |
 | ------- |
@@ -28,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0500-keyboard-row](https://github.com/malavya1411/DSA-Submissions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/malavya1411/DSA-Submissions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/malavya1411/DSA-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/malavya1411/DSA-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/malavya1411/DSA-Submissions/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/malavya1411/DSA-Submissions/tree/master/0724-find-pivot-index) |
@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/malavya1411/DSA-Submissions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/malavya1411/DSA-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/malavya1411/DSA-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0904-fruit-into-baskets](https://github.com/malavya1411/DSA-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/malavya1411/DSA-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0520-detect-capital](https://github.com/malavya1411/DSA-Submissions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/malavya1411/DSA-Submissions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/malavya1411/DSA-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/malavya1411/DSA-Submissions/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
