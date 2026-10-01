@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/malavya1411/DSA-Submissions/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/malavya1411/DSA-Submissions/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/malavya1411/DSA-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/malavya1411/DSA-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0500-keyboard-row](https://github.com/malavya1411/DSA-Submissions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/malavya1411/DSA-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/malavya1411/DSA-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0804-unique-morse-code-words](https://github.com/malavya1411/DSA-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/malavya1411/DSA-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/malavya1411/DSA-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0541-reverse-string-ii](https://github.com/malavya1411/DSA-Submissions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/malavya1411/DSA-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0804-unique-morse-code-words](https://github.com/malavya1411/DSA-Submissions/tree/master/0804-unique-morse-code-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/malavya1411/DSA-Submissions/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/malavya1411/DSA-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
