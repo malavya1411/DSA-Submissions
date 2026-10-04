@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/malavya1411/DSA-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/malavya1411/DSA-Submissions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0804-unique-morse-code-words](https://github.com/malavya1411/DSA-Submissions/tree/master/0804-unique-morse-code-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/malavya1411/DSA-Submissions/tree/master/1108-defanging-an-ip-address) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0392-is-subsequence](https://github.com/malavya1411/DSA-Submissions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1406-stone-game-iii) |
 | [3524-find-x-value-of-array-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3524-find-x-value-of-array-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/malavya1411/DSA-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/malavya1411/DSA-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/malavya1411/DSA-Submissions/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/malavya1411/DSA-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Matrix
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/malavya1411/DSA-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
