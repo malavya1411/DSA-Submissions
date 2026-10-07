@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0168-excel-sheet-column-title](https://github.com/malavya1411/DSA-Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/malavya1411/DSA-Submissions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/malavya1411/DSA-Submissions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/malavya1411/DSA-Submissions/tree/master/0389-find-the-difference) |
@@ -269,12 +270,14 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0100-same-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/malavya1411/DSA-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/malavya1411/DSA-Submissions/tree/master/0463-island-perimeter) |
 | [3310-remove-methods-from-project](https://github.com/malavya1411/DSA-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0100-same-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
 | ------- |
@@ -430,4 +434,5 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
