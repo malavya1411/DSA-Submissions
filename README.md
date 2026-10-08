@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0804-unique-morse-code-words](https://github.com/malavya1411/DSA-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0856-score-of-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malavya1411/DSA-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/malavya1411/DSA-Submissions/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/malavya1411/DSA-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0678-valid-parenthesis-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malavya1411/DSA-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/malavya1411/DSA-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0678-valid-parenthesis-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malavya1411/DSA-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/malavya1411/DSA-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
