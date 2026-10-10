@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1920-build-array-from-permutation](https://github.com/malavya1411/DSA-Submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/malavya1411/DSA-Submissions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/malavya1411/DSA-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/malavya1411/DSA-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/malavya1411/DSA-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3524-find-x-value-of-array-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/malavya1411/DSA-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/malavya1411/DSA-Submissions/tree/master/1859-sorting-the-sentence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/malavya1411/DSA-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/malavya1411/DSA-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/malavya1411/DSA-Submissions/tree/master/3731-find-missing-elements) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/malavya1411/DSA-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malavya1411/DSA-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/malavya1411/DSA-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/malavya1411/DSA-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/malavya1411/DSA-Submissions/tree/master/0506-relative-ranks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/malavya1411/DSA-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bubble Sort
 |  |
 | ------- |
