@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0027-remove-element](https://github.com/malavya1411/DSA-Submissions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/malavya1411/DSA-Submissions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0136-single-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0058-length-of-last-word](https://github.com/malavya1411/DSA-Submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/malavya1411/DSA-Submissions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/malavya1411/DSA-Submissions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/malavya1411/DSA-Submissions/tree/master/0168-excel-sheet-column-title) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/malavya1411/DSA-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0101-symmetric-tree) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/malavya1411/DSA-Submissions/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/malavya1411/DSA-Submissions/tree/master/0661-image-smoother) |
 | [1672-richest-customer-wealth](https://github.com/malavya1411/DSA-Submissions/tree/master/1672-richest-customer-wealth) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 ## Binary Indexed Tree
 |  |
