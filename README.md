@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1859-sorting-the-sentence](https://github.com/malavya1411/DSA-Submissions/tree/master/1859-sorting-the-sentence) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/malavya1411/DSA-Submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Linked List
 |  |
 | ------- |
