@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/malavya1411/DSA-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/malavya1411/DSA-Submissions/tree/master/1859-sorting-the-sentence) |
+| [2409-count-days-spent-together](https://github.com/malavya1411/DSA-Submissions/tree/master/2409-count-days-spent-together) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/malavya1411/DSA-Submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1406-stone-game-iii) |
+| [2409-count-days-spent-together](https://github.com/malavya1411/DSA-Submissions/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/malavya1411/DSA-Submissions/tree/master/3536-maximum-product-of-two-digits) |
