@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/malavya1411/DSA-Submissions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/malavya1411/DSA-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/malavya1411/DSA-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1406-stone-game-iii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0101-symmetric-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/malavya1411/DSA-Submissions/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/malavya1411/DSA-Submissions/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/malavya1411/DSA-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0100-same-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0101-symmetric-tree) |
 | [0463-island-perimeter](https://github.com/malavya1411/DSA-Submissions/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/malavya1411/DSA-Submissions/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/malavya1411/DSA-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/malavya1411/DSA-Submissions/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/malavya1411/DSA-Submissions/tree/master/0661-image-smoother) |
+| [1254-number-of-closed-islands](https://github.com/malavya1411/DSA-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/malavya1411/DSA-Submissions/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
@@ -492,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/malavya1411/DSA-Submissions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
