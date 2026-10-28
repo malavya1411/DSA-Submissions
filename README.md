@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malavya1411/DSA-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/malavya1411/DSA-Submissions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/malavya1411/DSA-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/malavya1411/DSA-Submissions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0877-stone-game](https://github.com/malavya1411/DSA-Submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1406-stone-game-iii) |
 | [3524-find-x-value-of-array-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/malavya1411/DSA-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Interactive
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/malavya1411/DSA-Submissions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/malavya1411/DSA-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/malavya1411/DSA-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1254-number-of-closed-islands](https://github.com/malavya1411/DSA-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/malavya1411/DSA-Submissions/tree/master/1672-richest-customer-wealth) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/malavya1411/DSA-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/malavya1411/DSA-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
