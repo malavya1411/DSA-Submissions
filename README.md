@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0014-longest-common-prefix](https://github.com/malavya1411/DSA-Submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/malavya1411/DSA-Submissions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/malavya1411/DSA-Submissions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/malavya1411/DSA-Submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/malavya1411/DSA-Submissions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/malavya1411/DSA-Submissions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/malavya1411/DSA-Submissions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/malavya1411/DSA-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/malavya1411/DSA-Submissions/tree/master/0242-valid-anagram) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/malavya1411/DSA-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/malavya1411/DSA-Submissions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/malavya1411/DSA-Submissions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/malavya1411/DSA-Submissions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/malavya1411/DSA-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/malavya1411/DSA-Submissions/tree/master/0142-linked-list-cycle-ii) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0020-valid-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/malavya1411/DSA-Submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/malavya1411/DSA-Submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/malavya1411/DSA-Submissions/tree/master/0076-minimum-window-substring) |
