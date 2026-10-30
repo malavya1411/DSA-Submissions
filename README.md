@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/malavya1411/DSA-Submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/malavya1411/DSA-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/malavya1411/DSA-Submissions/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/malavya1411/DSA-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | ------- |
 | [0506-relative-ranks](https://github.com/malavya1411/DSA-Submissions/tree/master/0506-relative-ranks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/malavya1411/DSA-Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/malavya1411/DSA-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -513,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/malavya1411/DSA-Submissions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/malavya1411/DSA-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/malavya1411/DSA-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
