@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0238-product-of-array-except-self](https://github.com/malavya1411/DSA-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/malavya1411/DSA-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/malavya1411/DSA-Submissions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/malavya1411/DSA-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/malavya1411/DSA-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/malavya1411/DSA-Submissions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/malavya1411/DSA-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
