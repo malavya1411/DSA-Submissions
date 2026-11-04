@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/malavya1411/DSA-Submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/malavya1411/DSA-Submissions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/malavya1411/DSA-Submissions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/malavya1411/DSA-Submissions/tree/master/0168-excel-sheet-column-title) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/malavya1411/DSA-Submissions/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 ## Binary Indexed Tree
 |  |
