@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1254-number-of-closed-islands](https://github.com/malavya1411/DSA-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/malavya1411/DSA-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/malavya1411/DSA-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/malavya1411/DSA-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1528-shuffle-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0876-middle-of-the-linked-list](https://github.com/malavya1411/DSA-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/malavya1411/DSA-Submissions/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/malavya1411/DSA-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/malavya1411/DSA-Submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/malavya1411/DSA-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/malavya1411/DSA-Submissions/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/malavya1411/DSA-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/malavya1411/DSA-Submissions/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/malavya1411/DSA-Submissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/malavya1411/DSA-Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/malavya1411/DSA-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/malavya1411/DSA-Submissions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/malavya1411/DSA-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
