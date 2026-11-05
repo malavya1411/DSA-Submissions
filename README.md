@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/malavya1411/DSA-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/malavya1411/DSA-Submissions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/malavya1411/DSA-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/malavya1411/DSA-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0165-compare-version-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malavya1411/DSA-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/malavya1411/DSA-Submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/malavya1411/DSA-Submissions/tree/master/0392-is-subsequence) |
