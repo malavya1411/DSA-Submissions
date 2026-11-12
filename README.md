@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/malavya1411/DSA-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/malavya1411/DSA-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/malavya1411/DSA-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
