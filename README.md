@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0238-product-of-array-except-self](https://github.com/malavya1411/DSA-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/malavya1411/DSA-Submissions/tree/master/0283-move-zeroes) |
+| [0318-maximum-product-of-word-lengths](https://github.com/malavya1411/DSA-Submissions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/malavya1411/DSA-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/malavya1411/DSA-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0242-valid-anagram](https://github.com/malavya1411/DSA-Submissions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/malavya1411/DSA-Submissions/tree/master/0290-word-pattern) |
+| [0318-maximum-product-of-word-lengths](https://github.com/malavya1411/DSA-Submissions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0387-first-unique-character-in-a-string) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/malavya1411/DSA-Submissions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/malavya1411/DSA-Submissions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/malavya1411/DSA-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/malavya1411/DSA-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
