@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/malavya1411/DSA-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/malavya1411/DSA-Submissions/tree/master/1859-sorting-the-sentence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/malavya1411/DSA-Submissions/tree/master/2409-count-days-spent-together) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/malavya1411/DSA-Submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3498-reverse-degree-of-a-string) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0657-robot-return-to-origin](https://github.com/malavya1411/DSA-Submissions/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/malavya1411/DSA-Submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/malavya1411/DSA-Submissions/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
