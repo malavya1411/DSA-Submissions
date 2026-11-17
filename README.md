@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0049-group-anagrams](https://github.com/malavya1411/DSA-Submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/malavya1411/DSA-Submissions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/malavya1411/DSA-Submissions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/malavya1411/DSA-Submissions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/malavya1411/DSA-Submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/malavya1411/DSA-Submissions/tree/master/0093-restore-ip-addresses) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/malavya1411/DSA-Submissions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/malavya1411/DSA-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0856-score-of-parentheses) |
