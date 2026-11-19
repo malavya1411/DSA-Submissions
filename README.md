@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0076-minimum-window-substring](https://github.com/malavya1411/DSA-Submissions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/malavya1411/DSA-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/malavya1411/DSA-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/malavya1411/DSA-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/malavya1411/DSA-Submissions/tree/master/0290-word-pattern) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0165-compare-version-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/malavya1411/DSA-Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0171-excel-sheet-column-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/malavya1411/DSA-Submissions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/malavya1411/DSA-Submissions/tree/master/0290-word-pattern) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/malavya1411/DSA-Submissions/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -571,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/malavya1411/DSA-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
