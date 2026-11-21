@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/malavya1411/DSA-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/malavya1411/DSA-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/malavya1411/DSA-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/malavya1411/DSA-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/malavya1411/DSA-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/malavya1411/DSA-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/malavya1411/DSA-Submissions/tree/master/3731-find-missing-elements) |
 ## String
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [2409-count-days-spent-together](https://github.com/malavya1411/DSA-Submissions/tree/master/2409-count-days-spent-together) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/malavya1411/DSA-Submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/malavya1411/DSA-Submissions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/malavya1411/DSA-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/malavya1411/DSA-Submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0101-symmetric-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/malavya1411/DSA-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1254-number-of-closed-islands](https://github.com/malavya1411/DSA-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/malavya1411/DSA-Submissions/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/malavya1411/DSA-Submissions/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/malavya1411/DSA-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/malavya1411/DSA-Submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
