@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/malavya1411/DSA-Submissions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/malavya1411/DSA-Submissions/tree/master/1859-sorting-the-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/malavya1411/DSA-Submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/malavya1411/DSA-Submissions/tree/master/2409-count-days-spent-together) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/malavya1411/DSA-Submissions/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
