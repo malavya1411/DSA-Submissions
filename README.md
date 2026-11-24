@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/malavya1411/DSA-Submissions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/malavya1411/DSA-Submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/malavya1411/DSA-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [2747-count-zero-request-servers](https://github.com/malavya1411/DSA-Submissions/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/malavya1411/DSA-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/malavya1411/DSA-Submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/malavya1411/DSA-Submissions/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/malavya1411/DSA-Submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/malavya1411/DSA-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/malavya1411/DSA-Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/malavya1411/DSA-Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/malavya1411/DSA-Submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Newton's Method
 |  |
 | ------- |
@@ -594,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/malavya1411/DSA-Submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
