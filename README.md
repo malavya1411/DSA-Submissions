@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0171-excel-sheet-column-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/malavya1411/DSA-Submissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/malavya1411/DSA-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0241-different-ways-to-add-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/malavya1411/DSA-Submissions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/malavya1411/DSA-Submissions/tree/master/0290-word-pattern) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0053-maximum-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/malavya1411/DSA-Submissions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/malavya1411/DSA-Submissions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0509-fibonacci-number) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/malavya1411/DSA-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/malavya1411/DSA-Submissions/tree/master/0206-reverse-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/malavya1411/DSA-Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0168-excel-sheet-column-title](https://github.com/malavya1411/DSA-Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/malavya1411/DSA-Submissions/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/malavya1411/DSA-Submissions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/malavya1411/DSA-Submissions/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/malavya1411/DSA-Submissions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -553,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/malavya1411/DSA-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/malavya1411/DSA-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
