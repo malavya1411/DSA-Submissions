@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/malavya1411/DSA-Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/malavya1411/DSA-Submissions/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/malavya1411/DSA-Submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/malavya1411/DSA-Submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/malavya1411/DSA-Submissions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/malavya1411/DSA-Submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [1920-build-array-from-permutation](https://github.com/malavya1411/DSA-Submissions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/malavya1411/DSA-Submissions/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/malavya1411/DSA-Submissions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/malavya1411/DSA-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
