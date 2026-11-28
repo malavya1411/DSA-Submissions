@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/malavya1411/DSA-Submissions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/malavya1411/DSA-Submissions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/malavya1411/DSA-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/malavya1411/DSA-Submissions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/malavya1411/DSA-Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/malavya1411/DSA-Submissions/tree/master/0171-excel-sheet-column-number) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0022-generate-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/malavya1411/DSA-Submissions/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/malavya1411/DSA-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/malavya1411/DSA-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/malavya1411/DSA-Submissions/tree/master/0392-is-subsequence) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! Created using [L
 | [0022-generate-parentheses](https://github.com/malavya1411/DSA-Submissions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/malavya1411/DSA-Submissions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/malavya1411/DSA-Submissions/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/malavya1411/DSA-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/malavya1411/DSA-Submissions/tree/master/0257-binary-tree-paths) |
 ## Binary Indexed Tree
 |  |
